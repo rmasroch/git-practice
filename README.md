@@ -1,4 +1,4 @@
 # git-practice
-‚±‚ÌƒŠƒ|ƒWƒgƒŠ‚ÍGit“®‰æuÀ—p‚Å‚·D
-githubã‚ÅXV
-stashŽž‚ÉƒRƒ“ƒtƒŠƒNƒg‚ª‹N‚±‚é‚æ‚¤‚ÉŽdŠ|‚¯‚é
+ã“ã®ãƒªãƒã‚¸ãƒˆãƒªã¯Gitå‹•ç”»è¬›åº§ç”¨ã§ã™ï¼Ž
+githubä¸Šã§æ›´æ–°
+stashç·´ç¿’
