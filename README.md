@@ -1,3 +1,3 @@
 # git-practice
-‚±‚ÌƒŠƒ|ƒWƒgƒŠ‚ÍGit“®‰æuÀ—p‚Å‚·D
-rebase-practiceƒuƒ‰ƒ“ƒ`‚ÅXV(rebase ƒRƒ“ƒtƒŠƒNƒg‚Ì‚½‚ß)
+ã“ã®ãƒªãƒã‚¸ãƒˆãƒªã¯Gitå‹•ç”»è¬›åº§ç”¨ã§ã™ï¼
+githubä¸Šã§æ›´æ–°
